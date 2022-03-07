@@ -1,2 +1,2 @@
 # Portfolio
-[Link to my portfolio](https://shazasafi.com/)
+[Link to my portfolio](http://shazasafi.com/)
