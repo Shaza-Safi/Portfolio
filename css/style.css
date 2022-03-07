@@ -742,6 +742,85 @@ body {
     border-radius: 0;
  
  }
+  /* Education ---------------------*/
+  .education-container {
+    padding: 60px 0;
+  }
+  
+  .education-item {
+    padding: 20px 0;
+  }
+
+  /* .container{margin: 25px
+  }
+   */
+  .container-color, .container-dark {
+    padding: 100px 0;
+    color: #fff;
+  }
+  
+  .container-color {
+    width: 100%;
+    float: Center;
+    background-color: #328eff;
+  }
+  
+  .container-dark {
+    width: 100%;
+    float: Center;
+    background-color: #343a40;
+  }
+  
+  .card-title {
+    margin-top: 50px;
+    color: #328eff;
+    text-align: center;
+  }
+  
+  .card-text {
+    line-height: 2;
+  }
+  
+  .card-icon{
+    color: #328eff;
+    font-size: 50px;
+  }
+  
+  .subtitle {
+      font-weight: 200;
+  }
+  .boy {
+      display: block;
+      height: 200px;
+      margin-top: 50px;
+  }
+  
+  .start-project-card {
+      min-height: 200px;
+      width: 100%;
+  }
+  
+  .card-flex{
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      flex-direction: column;
+  }
+  
+  .social-icon {
+      color: #fff;
+      font-size: 36px;
+      margin-right: 40px;
+  }
+  
+  .skill-container{
+      padding: 30px;
+  }
+  
+  .fa-align {
+    margin: auto;
+    color: #fff;
+  } 
   
   
   /* Dataset Section
